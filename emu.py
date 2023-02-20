@@ -5,7 +5,6 @@
 
 from registers import Registers
 from emulation import Emulation
-from maps import Maps
 from __main__ import currentProgram
 
 def main():
